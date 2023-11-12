@@ -1,0 +1,23 @@
+{
+    "mind-mapping": {
+        "slug": "mind-mapping",
+        "name": "Découvrez le Mind Mapping !",
+        "date": "Dimanche 12 Novembre 2023",
+        "description": "Le Mind Mappind est une technique très efficace pour ne pas perdre ses idées !",
+        "markdownFilename": "mindMapping01.md"
+    },
+    "article-2": {
+        "slug": "article-2",
+        "name": "Découvrez Mon article 2",
+        "date": "Dimanche 12 Novembre 2023",
+        "description": "Le Mind Mappind est une technique très efficace pour ne pas perdre ses idées !",
+        "markdownFilename": "README.md"
+    },
+    "article-3": {
+        "slug": "article-3",
+        "name": "Découvrez Mon article 3",
+        "date": "Dimanche 12 Novembre 2023",
+        "description": "Le Mind Mappind est une technique très efficace pour ne pas perdre ses idées !",
+        "markdownFilename": "mindMapping01.md"
+    }
+}
