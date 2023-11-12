@@ -1,5 +1,5 @@
 const itemsContainer = document.querySelector('#page')
-const baseURL = "http://localhost:5500/"
+const baseURL = "https://gaetansuenge.github.io/blog/"
 const requestURL = baseURL + "markdown/about-me.md"
 let request = new XMLHttpRequest()
 const converter = new showdown.Converter()
