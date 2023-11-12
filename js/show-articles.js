@@ -42,7 +42,7 @@ function loadItem() {
 }
 
 const itemsContainer = document.querySelector('#page')
-const baseURL = "http://localhost:5500/"
+const baseURL = "https://gaetansuenge.github.io/blog/"
 const requestURL = baseURL + "json/articles.json"
 
 let request = new XMLHttpRequest()
